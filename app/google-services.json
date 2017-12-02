@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549511244104",
+    "firebase_url": "https://testchat-abd27.firebaseio.com",
+    "project_id": "testchat-abd27",
+    "storage_bucket": "testchat-abd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549511244104:android:78ab8d6da202098e",
+        "android_client_info": {
+          "package_name": "com.hblap.hamin.testfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549511244104-qg217ap34elfj16oijqipn13436a90g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXthk3yg4ZJ-IHHtZmPsHs6m52FOYnLcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
